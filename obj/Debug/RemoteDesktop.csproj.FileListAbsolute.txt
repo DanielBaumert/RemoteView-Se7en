@@ -1,0 +1,15 @@
+C:\Users\DBaumert\source\repos\RemoteDesktop\RemoteDesktop\bin\Debug\RemoteDesktop.exe.config
+C:\Users\DBaumert\source\repos\RemoteDesktop\RemoteDesktop\bin\Debug\RemoteDesktop.exe
+C:\Users\DBaumert\source\repos\RemoteDesktop\RemoteDesktop\bin\Debug\RemoteDesktop.pdb
+C:\Users\DBaumert\source\repos\RemoteDesktop\RemoteDesktop\bin\Debug\Se7en.dll
+C:\Users\DBaumert\source\repos\RemoteDesktop\RemoteDesktop\bin\Debug\Se7en.pdb
+C:\Users\DBaumert\source\repos\RemoteDesktop\RemoteDesktop\bin\Debug\Se7en.dll.config
+C:\Users\DBaumert\source\repos\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.csprojAssemblyReference.cache
+C:\Users\DBaumert\source\repos\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.Properties.Resources.resources
+C:\Users\DBaumert\source\repos\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.csproj.GenerateResource.cache
+C:\Users\DBaumert\source\repos\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.csproj.CoreCompileInputs.cache
+C:\Users\DBaumert\source\repos\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.csproj.CopyComplete
+C:\Users\DBaumert\source\repos\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.exe
+C:\Users\DBaumert\source\repos\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.pdb
+C:\Users\DBaumert\source\repos\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.MainMenu.resources
+C:\Users\DBaumert\source\repos\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.RemoteView.resources
